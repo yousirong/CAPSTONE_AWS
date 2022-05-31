@@ -1,0 +1,7 @@
+exit
+from pyvirtualdisplay import Display
+from selenium import webdriver
+display = Display(visible=0, size=(1920,1080))
+display.start()
+path = '/home/ubuntu/chromedriver'
+driver = webdriver.Chrome(path)

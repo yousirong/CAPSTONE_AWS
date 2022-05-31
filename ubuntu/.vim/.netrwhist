@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/ubuntu/.config'
+let g:netrw_dirhist_9='/home/ubuntu/server/hufs/routes'
+let g:netrw_dirhist_8='/etc/mysql/conf.d'
+let g:netrw_dirhist_7='/home/ubuntu/.git'
+let g:netrw_dirhist_6='/home/ubuntu/.git/refs'
+let g:netrw_dirhist_5='/home/ubuntu/.git'
+let g:netrw_dirhist_4='/home/ubuntu/.git/objects'
+let g:netrw_dirhist_3='/home/ubuntu/.git'
+let g:netrw_dirhist_2='/home/ubuntu/.git/refs'
+let g:netrw_dirhist_1='/home/ubuntu/.git'

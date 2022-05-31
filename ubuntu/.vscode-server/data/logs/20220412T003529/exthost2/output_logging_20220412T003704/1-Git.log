@@ -1,0 +1,10 @@
+[2022-04-11T15:37:04.883Z] Validating found git in: git
+[2022-04-11T15:37:04.975Z] Using git 2.25.1 from git
+[2022-04-11T15:37:05.331Z] > git rev-parse --git-dir [11ms]
+[2022-04-11T15:37:05.342Z] Open repository: /home/ubuntu/.nvm
+[2022-04-11T15:37:05.689Z] > git symbolic-ref --short HEAD [5ms]
+[2022-04-11T15:37:05.689Z] fatal: ref HEAD is not a symbolic ref
+[2022-04-11T15:37:05.695Z] > git rev-parse HEAD [2ms]
+[2022-04-11T15:37:05.710Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-04-11T15:37:05.711Z] > git remote --verbose [8ms]
+[2022-04-11T15:37:05.724Z] > git config --get commit.template [4ms]

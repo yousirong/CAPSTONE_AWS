@@ -1,0 +1,15 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "jupyter.askForKernelRestart": false,
+    "notebook.kernelProviderAssociations": [
+    
+    ],
+    "workbench.editor.untitled.hint": "hidden",
+    "window.zoomLevel": 1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "remote.SSH.remotePlatform": {
+        "ec2-15-165-215-193.ap-northeast-2.compute.amazonaws.com": "linux"
+    }
+}
