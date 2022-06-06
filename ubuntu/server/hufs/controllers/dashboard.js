@@ -6,7 +6,7 @@ const controller = {
   async dashboard(req, res, next) {
     try {
       const [results] = await res.pool.query(`
-          SELECT *
+          SELECT store_no, store_name, cat_1, cat_2, cat_3, telephone, addr_1, addr_2, addr_3, rb_addr, rating, business_hour, homepage, rewiew_count
           FROM business_data
           limit 100;
         `
@@ -96,7 +96,7 @@ const controller = {
     try {
       const [results] = await res.pool.query(`
           SELECT DISTINCT cat_1
-          FROM Business_data;
+          FROM business_data;
         `
       );
       next({ results });
@@ -110,7 +110,7 @@ const controller = {
 
       const [results] = await res.pool.query(`
           SELECT DISTINCT cat_2
-          FROM Business_data
+          FROM business_data
           where cat_1 =?;
         `,
         [cat_1]
@@ -126,7 +126,7 @@ const controller = {
 
       const [results] = await res.pool.query(`
           SELECT DISTINCT cat_3
-          FROM Business_data
+          FROM business_data
           where cat_2 =?;
         `,
         [cat_1]
@@ -140,7 +140,7 @@ const controller = {
     try {
       const [results] = await res.pool.query(`
           SELECT DISTINCT addr_1
-          FROM Business_data;
+          FROM business_data;
         `
       );
       next({ results });
@@ -154,7 +154,7 @@ const controller = {
 
       const [results] = await res.pool.query(`
           SELECT DISTINCT addr_2
-          FROM Business_data
+          FROM business_data
           where addr_1 =?;
         `,
         [addr_1]
@@ -170,7 +170,7 @@ const controller = {
 
       const [results] = await res.pool.query(`
           SELECT DISTINCT addr_3
-          FROM Business_data
+          FROM business_data
           where addrt_2 = ?;
         `,
         [addr_2]

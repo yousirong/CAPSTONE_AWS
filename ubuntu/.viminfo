@@ -14,12 +14,18 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1654512665,,"wq"
 :q
-|2,0,1653978698,,"q"
+|2,0,1654058414,,"q"
+:1
+|2,0,1653980110,,"1"
+:10000000
+|2,0,1653979896,,"10000000"
+:100000
+|2,0,1653979879,,"100000"
 :1000000
 |2,0,1653937455,,"1000000"
-:wq
-|2,0,1653936903,,"wq"
 :400000
 |2,0,1653653562,,"400000"
 :11111
@@ -34,8 +40,6 @@ $
 |2,0,1652768488,,"G"
 :g
 |2,0,1652768483,,"g"
-:1
-|2,0,1649682321,,"1"
 :q!
 |2,0,1649654522,,"q!"
 
@@ -50,350 +54,244 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	 
-|3,1,0,0,1,0,1652716580," "
-"-	CHAR	0
-	 
-|3,0,36,0,1,0,1651950411," "
+|3,0,0,0,1,0,1652716580," "
+""-	CHAR	0
+	o
+|3,1,36,0,1,0,1654512674,"o"
 
 # File marks:
-'0  1  0  ~/.pm2/module_conf.json
-|4,48,1,0,1653978698,"~/.pm2/module_conf.json"
-'1  1  8  ~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
-|4,49,1,8,1653938066,"~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js"
-'2  133562  45  ~/.pm2/pm2.log
-|4,50,133562,45,1653937527,"~/.pm2/pm2.log"
-'3  13  7  ~/server/hufs/app.js
-|4,51,13,7,1653936903,"~/server/hufs/app.js"
-'4  1  0  ~/server/hufs/package.json
-|4,52,1,0,1653936590,"~/server/hufs/package.json"
-'5  51  0  ~/server/hufs/app.js
-|4,53,51,0,1653936500,"~/server/hufs/app.js"
-'6  51  0  ~/server/hufs/app.js
-|4,54,51,0,1653936500,"~/server/hufs/app.js"
-'7  133580  0  ~/.pm2/pm2.log
-|4,55,133580,0,1653653724,"~/.pm2/pm2.log"
-'8  133580  0  ~/.pm2/pm2.log
-|4,56,133580,0,1653653724,"~/.pm2/pm2.log"
-'9  935  0  ~/.pm2/pm2.log
-|4,57,935,0,1653651909,"~/.pm2/pm2.log"
+'0  109  1  ~/server/hufs/controllers/common.js
+|4,48,109,1,1654512688,"~/server/hufs/controllers/common.js"
+'1  9  148  ~/server/hufs/controllers/dashboard.js
+|4,49,9,148,1654512665,"~/server/hufs/controllers/dashboard.js"
+'2  1  0  ~/server/hufs/.env
+|4,50,1,0,1654058414,"~/server/hufs/.env"
+'3  47  8  ~/server/hufs/controllers/dashboard.js
+|4,51,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+'4  47  8  ~/server/hufs/controllers/dashboard.js
+|4,52,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+'5  185  15  ~/server/hufs/controllers/dashboard.js
+|4,53,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+'6  185  15  ~/server/hufs/controllers/dashboard.js
+|4,54,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+'7  185  15  ~/server/hufs/controllers/dashboard.js
+|4,55,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+'8  185  15  ~/server/hufs/controllers/dashboard.js
+|4,56,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+'9  9  134  ~/server/hufs/controllers/dashboard.js
+|4,57,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
 
 # Jumplist (newest first):
--'  1  0  ~/.pm2/module_conf.json
-|4,39,1,0,1653978698,"~/.pm2/module_conf.json"
--'  1  8  ~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
-|4,39,1,8,1653938066,"~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js"
--'  1  8  ~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
-|4,39,1,8,1653938066,"~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js"
--'  133562  45  ~/.pm2/pm2.log
-|4,39,133562,45,1653937527,"~/.pm2/pm2.log"
--'  133562  45  ~/.pm2/pm2.log
-|4,39,133562,45,1653937527,"~/.pm2/pm2.log"
--'  133562  45  ~/.pm2/pm2.log
-|4,39,133562,45,1653937527,"~/.pm2/pm2.log"
--'  133562  45  ~/.pm2/pm2.log
-|4,39,133562,45,1653937527,"~/.pm2/pm2.log"
--'  1  0  ~/.pm2/pm2.log
-|4,39,1,0,1653937450,"~/.pm2/pm2.log"
--'  1  0  ~/.pm2/pm2.log
-|4,39,1,0,1653937450,"~/.pm2/pm2.log"
--'  1  0  ~/.pm2/pm2.log
-|4,39,1,0,1653937450,"~/.pm2/pm2.log"
--'  1  0  ~/.pm2/pm2.log
-|4,39,1,0,1653937450,"~/.pm2/pm2.log"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  13  7  ~/server/hufs/app.js
-|4,39,13,7,1653936903,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936888,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  1  0  ~/server/hufs/package.json
-|4,39,1,0,1653936590,"~/server/hufs/package.json"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  51  0  ~/server/hufs/app.js
-|4,39,51,0,1653936500,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  1  0  ~/server/hufs/app.js
-|4,39,1,0,1653936492,"~/server/hufs/app.js"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
--'  133580  0  ~/.pm2/pm2.log
-|4,39,133580,0,1653653724,"~/.pm2/pm2.log"
+-'  109  1  ~/server/hufs/controllers/common.js
+|4,39,109,1,1654512688,"~/server/hufs/controllers/common.js"
+-'  1  0  ~/server/hufs/controllers/common.js
+|4,39,1,0,1654512674,"~/server/hufs/controllers/common.js"
+-'  9  148  ~/server/hufs/controllers/dashboard.js
+|4,39,9,148,1654512665,"~/server/hufs/controllers/dashboard.js"
+-'  9  148  ~/server/hufs/controllers/dashboard.js
+|4,39,9,148,1654512665,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1654512607,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1654512607,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/.env
+|4,39,1,0,1654058414,"~/server/hufs/.env"
+-'  1  0  ~/server/hufs/.env
+|4,39,1,0,1654058414,"~/server/hufs/.env"
+-'  1  0  ~/server/hufs/.env
+|4,39,1,0,1654058414,"~/server/hufs/.env"
+-'  1  0  ~/server/hufs/.env
+|4,39,1,0,1654058414,"~/server/hufs/.env"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  47  8  ~/server/hufs/controllers/dashboard.js
+|4,39,47,8,1653989519,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989500,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989500,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989500,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989500,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  185  15  ~/server/hufs/controllers/dashboard.js
+|4,39,185,15,1653989420,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989378,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989378,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989378,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989378,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  9  134  ~/server/hufs/controllers/dashboard.js
+|4,39,9,134,1653989158,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989116,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989116,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989116,"~/server/hufs/controllers/dashboard.js"
+-'  1  0  ~/server/hufs/controllers/dashboard.js
+|4,39,1,0,1653989116,"~/server/hufs/controllers/dashboard.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
+-'  24  22  ~/server/hufs/app.js
+|4,39,24,22,1653989061,"~/server/hufs/app.js"
 
 # History of marks within files (newest to oldest):
 
-> ~/.pm2/module_conf.json
-	*	1653978595	0
-	"	1	0
-
-> ~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
-	*	1653938064	0
-	"	1	8
-
-> ~/.pm2/pm2.log
-	*	1653937526	0
-	"	133562	45
-
-> ~/server/hufs/app.js
-	*	1653936899	0
-	"	13	7
-	^	13	8
-	.	13	8
-	+	13	8
-
-> ~/server/hufs/package.json
-	*	1653936577	0
-	"	1	0
-
-> /var/log/syslog
-	*	1653648409	0
-	"	492	0
-
-> /var/log/ubuntu-advantage.log
-	*	1653648328	0
-	"	1	0
-
-> /var/log/alternatives.log
-	*	1653648307	0
-	"	1	0
-
-> /var/log/apport.log
-	*	1653648270	0
-	"	1	0
-
-> /var/log/nginx/error.log
-	*	1653648254	0
-	"	63	0
-
-> /var/log/mysql/error.log
-	*	1653647833	0
-	"	10683	0
-
-> /var/log/kern.log
-	*	1653647666	0
-	"	1056	0
-
-> /var/log/syslog.1
-	*	1653647612	0
-	"	329	0
-
-> ~/server/hufs/.env
-	*	1653647461	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> ~/server/hufs/api.log
-	*	1653647330	0
-	"	117814	0
-
-> ~/.python_history
-	*	1653647178	0
-	"	1	0
-
-> ~/python/crawling/test.py
-	*	1653239291	0
-	"	1	0
-
-> ~/.env
-	*	1652718105	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	3	113
-	+	3	9
-	+	4	0
-	+	2	8
-	+	3	112
-	+	3	73
-	+	4	0
-	+	1	12
-
-> ~/README.md
-	*	1652717036	0
-	"	1	0
-
-> ~/.gitignore
-	*	1652716549	0
-	"	7	0
-
-> ~/front/hufs/index.html
-	*	1652714296	0
-	"	3	6
-	^	3	7
-	.	3	7
-	+	1	6
-	+	2	16
-	+	3	7
-
 > ~/server/hufs/controllers/common.js
-	*	1652713890	0
-	"	14	0
+	*	1654512674	0
+	"	109	1
 	^	1	8
-	.	276	7
-	+	6	4
+	.	1	1
 	+	18	5
 	+	6	0
 	+	27	107
@@ -493,6 +391,140 @@ $
 	+	97	5
 	+	24	5
 	+	276	7
+	+	1	1
+
+> ~/server/hufs/controllers/dashboard.js
+	*	1654512665	0
+	"	9	148
+	^	9	149
+	.	9	148
+	+	9	135
+	+	10	0
+	+	99	15
+	+	113	15
+	+	129	15
+	+	143	15
+	+	157	15
+	+	173	15
+	+	9	148
+
+> ~/server/hufs/.env
+	*	1654058409	0
+	"	1	0
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/server/hufs/app.js
+	*	1653989060	0
+	"	24	22
+	^	24	23
+	.	24	23
+	+	13	8
+	+	24	23
+
+> ~/.pm2/dump.pm2
+	*	1653980479	0
+	"	1	162
+
+> ~/.pm2/touch
+	*	1653980452	0
+	"	1	0
+
+> ~/.pm2/pm2.pid
+	*	1653980441	0
+	"	1	0
+
+> ~/.pm2/pm2.log
+	*	1653980418	0
+	"	8	0
+
+> ~/.pm2/module_conf.json
+	*	1653978595	0
+	"	1	0
+
+> ~/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
+	*	1653938064	0
+	"	1	8
+
+> ~/server/hufs/package.json
+	*	1653936577	0
+	"	1	0
+
+> /var/log/syslog
+	*	1653648409	0
+	"	492	0
+
+> /var/log/ubuntu-advantage.log
+	*	1653648328	0
+	"	1	0
+
+> /var/log/alternatives.log
+	*	1653648307	0
+	"	1	0
+
+> /var/log/apport.log
+	*	1653648270	0
+	"	1	0
+
+> /var/log/nginx/error.log
+	*	1653648254	0
+	"	63	0
+
+> /var/log/mysql/error.log
+	*	1653647833	0
+	"	10683	0
+
+> /var/log/kern.log
+	*	1653647666	0
+	"	1056	0
+
+> /var/log/syslog.1
+	*	1653647612	0
+	"	329	0
+
+> ~/server/hufs/api.log
+	*	1653647330	0
+	"	117814	0
+
+> ~/.python_history
+	*	1653647178	0
+	"	1	0
+
+> ~/python/crawling/test.py
+	*	1653239291	0
+	"	1	0
+
+> ~/.env
+	*	1652718105	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	3	113
+	+	3	9
+	+	4	0
+	+	2	8
+	+	3	112
+	+	3	73
+	+	4	0
+	+	1	12
+
+> ~/README.md
+	*	1652717036	0
+	"	1	0
+
+> ~/.gitignore
+	*	1652716549	0
+	"	7	0
+
+> ~/front/hufs/index.html
+	*	1652714296	0
+	"	3	6
+	^	3	7
+	.	3	7
+	+	1	6
+	+	2	16
+	+	3	7
 
 > /var/log/auth.log
 	*	1649682166	0

@@ -511,3 +511,97 @@ cd /home/ubuntu/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/s
 vim /home/ubuntu/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/lib/templates/sample-apps/http-server/ecosystem.config.js
 cd /home/ubuntu/.nvm/versions/node/v16.14.2/lib/node_modules/pm2/
 ls
+ls -al
+cd .pm2
+ls
+vim module_conf.json 
+find ./ json
+find ./ .json
+find ./ $.json
+cd ..
+ls
+ls -al
+rmdir .vscode-server/
+rm -r .vscode-server/
+ls -al
+cd .pm2/
+ls
+pm2.log
+vim pm2.log
+ls
+vim pm2.pid 
+vim touch 
+vim dump.pm2 
+cd modules/
+ls
+ls -al
+cd ..
+ls
+cd logs/
+ls
+cd ..
+ls
+cd ..
+ls
+ls -al
+find ./  ecosystem.json
+cd server
+cd hufs
+node app.js
+cd sever/hufs
+cd server/hufs
+node app.js
+cd server/hufs
+ls
+vim app.js
+cd controllers/
+ls
+vim dashboard.js 
+clear
+cd server/hufs/
+clear
+ls
+pm2 list
+NODE_ENV=production pm2 start app.js --watch --max-memory-restart 128M --name hufs -i 0 -o ./api.log -e ./api.log --merge-logs
+pm2 list
+clear
+pm2 monit
+pm2 stop hufs
+pm2 list
+pm2 delete hufs
+clear
+ls -al
+vi .env
+clear
+nodemon app.js 
+clear
+pm2 start app.js --max-memory-restart 64M --name hufs -i 0 -o ./api.log -e ./api.log --merge-logs
+pm2 monit
+clear
+ls
+tail -f api.log 
+clear
+pm2 list
+pm2 stop 0
+pm2 delete 0
+clear
+cd server/hufs/
+pm2 start app.js --watch  --max-memory-restart 128M --name hufs -i 0 -o ./api.log -e ./api.log --merge-logs
+pm2 list
+pm2 monit
+pm2 stop 0
+pm2 delete 0
+pm2 start app.js --max-memory-restart 128M --name hufs -i 0 -o ./api.log -e ./api.log --merge-logs
+pm2 list
+pm2 monit
+clear
+exit
+cd server/hufs
+node app.js
+cd server/hufs
+node app.js
+cd server/hufs/
+cd controllers/
+ls
+vim dashboard.js 
+vim common.js 

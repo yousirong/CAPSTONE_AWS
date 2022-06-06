@@ -21,7 +21,7 @@ app.use(session({
   resave: false,
   saveUninitialized: true,
   store: new FileStore({ logFn: function () {} }),
-  cookie: { maxAge: 60000 }
+  cookie: { maxAge: 6000000 }
 }))
 dayjs.locale("ko");
 logger.token("date", () => dayjs().format("YYYY-MM-DD HH:mm:ss"));
