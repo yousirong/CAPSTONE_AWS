@@ -16,6 +16,26 @@
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/16e029ca-d090-450e-9404-200115bd8269)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/c93e9fed-904f-4dc0-a476-0a7a507e7379)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/fbe1e50a-4540-4488-8492-dc272cffd08e)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/3789f10a-4100-43a9-a52d-5a722208f7d4)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/9381618a-28d2-49d2-a879-9b2bc4330657)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/ce78385a-2e4e-4146-9844-05de58996296)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/49f365d2-e088-434a-8e61-619da30a5bae)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/efd98346-3068-486e-abee-b005094eb9ee)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/147401e1-7a78-46f9-9a2c-4117243b55b4)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/d31b60ed-e246-4709-8b75-73351d87f750)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/7119bc4c-a605-44f0-8bd7-084bb7f89e82)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/a7ccc4f4-84fb-4784-9c90-d4bdc9fc64a7)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/c396dda8-540d-46b7-961a-928fd404a5e4)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/494bb257-c545-4284-a15c-e649cac266c1)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/861b32d5-8f41-4d03-8836-430f1c46c5e1)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/08e44ebc-2c7f-4c8a-87cb-02cfc06bb145)
+
+
+
+
+
+
+
 
 ## Page demo
 
