@@ -13,6 +13,9 @@
 | -                        | ✓ 상세페이지 기능                   |
 | -                        | ✓ 영업 매장 관리 기능               |
 | -                        | ✓ 영업시 필요한 그래프 데이터       |
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/16e029ca-d090-450e-9404-200115bd8269)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/c93e9fed-904f-4dc0-a476-0a7a507e7379)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/fbe1e50a-4540-4488-8492-dc272cffd08e)
 
 ## Page demo
 
