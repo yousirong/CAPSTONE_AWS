@@ -8,11 +8,18 @@
 | ------------------------ | :---------------------------------- |
 | **7** Demo pages         | **42+** premium pages               |
 | -                        | ✓ 검색 기능                         |
-| -                        | ✓ 카테고리 검색 기능                |
+| -                        | ✓ 카테고리 검색 기능                 |
 | -                        | ✓ 매장 데이터 filter, search,export |
-| -                        | ✓ 상세페이지 기능                   |
-| -                        | ✓ 영업 매장 관리 기능               |
-| -                        | ✓ 영업시 필요한 그래프 데이터       |
+| -                        | ✓ 상세페이지 기능                    |
+| -                        | ✓ 영업 매장 관리 기능                |
+| -                        | ✓ 영업시 필요한 그래프 데이터         |
+## Page demo
+
+- [Login]
+- [Register]
+- [Dashboard]
+- [My shop]
+- [Not_Found]
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/16e029ca-d090-450e-9404-200115bd8269)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/c93e9fed-904f-4dc0-a476-0a7a507e7379)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/fbe1e50a-4540-4488-8492-dc272cffd08e)
@@ -29,21 +36,15 @@
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/494bb257-c545-4284-a15c-e649cac266c1)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/861b32d5-8f41-4d03-8836-430f1c46c5e1)
 ![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/08e44ebc-2c7f-4c8a-87cb-02cfc06bb145)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/425edd02-fbd3-4f6a-b5f1-b52efeb5ad9e)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/bfeddafd-fa46-41b1-9509-d07274e4d6b4)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/fd60e5af-99ab-465c-ab96-068167f6917d)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/8a68f621-3ebf-4a50-9e98-f837a2f7e0f8)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/e0c16180-3513-43d6-8331-5e7f893b5271)
+![image](https://github.com/yousirong/CAPSTONE_AWS/assets/80014277/69f35af6-c643-4b82-aae1-59fba9fe7ec0)
 
 
 
-
-
-
-
-
-## Page demo
-
-- [Login]
-- [Register]
-- [Dashboard]
-- [My shop]
-- [Not_Found]
 
 ## Getting started
 
