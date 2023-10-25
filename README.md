@@ -48,7 +48,6 @@
 
 ## Getting started
 
-node.modules, yarn.lock지운채로 업로드 예정
 
 - Recommended `node js ^16.14.x` and `npm ^8.5.x` and `yarn ^1.22.18`
 - Install dependencies: `npm install` or `yarn install`
