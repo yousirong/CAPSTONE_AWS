@@ -57,11 +57,11 @@
 
 Distributed under the aws ec2 License. [https://github.com/yousirong](https://github.com/yousirong) for more information.
 
-## Buy Premium Membership - Contact us
+## Contact us if you have any questions
 
 If you would like to purchase a premium membership, contact us
 
-diziyong@hufs.ac.kr
+JuneyongLee  diziyong1523@gmail.com diziyong@hufs.ac.kr
 
 201804546@hufs.ac.kr
 
