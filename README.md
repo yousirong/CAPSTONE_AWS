@@ -4,6 +4,18 @@
 
 ![Usedphoto] pixabay [https://pixabay.com/]
 
+Although large corporations have established sales databases for efficient sales
+activities, small-scale entrepreneurs need a system that provides an interface that anyone
+can easily manage, offering diverse and complex information. This paper proposes the use
+of React technology, which can also operate on crawling servers that automatically collect
+store information. Furthermore, it suggests the development of a responsive web user interface that can be conveniently used in both mouse and keyboard-based desktop environments as well as touch-based smartphone environments, utilizing React technology for the
+effective delivery of various data. The proposed methods anticipate rapid retrieval of large
+volumes of data due to the adoption of asynchronous function processing in React technology, an improvement over traditional JavaScript methods.
+
+
+
+
+
 | [HUFS_CAPSTONE_FOR_FREE] | [HUFS_CAPSTONE_FOR_Premium_member]  |
 | ------------------------ | :---------------------------------- |
 | **7** Demo pages         | **42+** premium pages               |
