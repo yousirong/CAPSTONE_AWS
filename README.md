@@ -13,7 +13,7 @@ effective delivery of various data. The proposed methods anticipate rapid retrie
 volumes of data due to the adoption of asynchronous function processing in React technology, an improvement over traditional JavaScript methods.
 
 
-[리액트를 활용한 소상공인을 위한 반응형 웹 인터페이스 개발에 관한 연구.pdf](https://github.com/yousirong/CAPSTONE_AWS/files/13428075/_._201904458_.pdf)
+[Research on Developing a Responsive Web Interface for Small Businesses Using React.pdf](https://github.com/yousirong/CAPSTONE_AWS/files/13428075/Research on Developing a Responsive Web Interface for Small Businesses Using React.pdf)
 
 
 
