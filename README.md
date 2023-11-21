@@ -13,6 +13,7 @@ effective delivery of various data. The proposed methods anticipate rapid retrie
 volumes of data due to the adoption of asynchronous function processing in React technology, an improvement over traditional JavaScript methods.
 
 
+[졸업논문_컴퓨터전자시스템공학_201904458_이준용.pdf](https://github.com/yousirong/CAPSTONE_AWS/files/13428075/_._201904458_.pdf)
 
 
 
