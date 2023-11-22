@@ -13,8 +13,7 @@ effective delivery of various data. The proposed methods anticipate rapid retrie
 volumes of data due to the adoption of asynchronous function processing in React technology, an improvement over traditional JavaScript methods.
 
 
-[Research on Developing a Responsive Web Interface for Small Businesses Using React.pdf](https://github.com/yousirong/CAPSTONE_AWS/files/13437869/Research_on_Developing_a_Responsive_Web_Interface_for_Small_Businesses_Using_React.pdf)
-
+[Research on Developing a Responsive Web Interface for Small Businesses Using React.pdf](https://github.com/yousirong/CAPSTONE_AWS/files/13437876/논문.pdf)
 
 | [HUFS_CAPSTONE_FOR_FREE] | [HUFS_CAPSTONE_FOR_Premium_member]  |
 | ------------------------ | :---------------------------------- |
